@@ -5,5 +5,5 @@ Use it like php language use smarty template engine
 
 #Installation
 `
-$ npm install sdx sdopx
+$ npm install opx
 `
