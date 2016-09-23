@@ -1,4 +1,4 @@
-# sdx
+# opx
 Express.js template engine plugin for Sdopx
 
 Use it like php language use smarty template engine
