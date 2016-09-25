@@ -1,7 +1,7 @@
 {
   "name": "opx",
   "main": "opx.js",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "license": "Apache-2.0",
   "description": "Express.js template engine plugin for Sdopx",
   "keywords": [
@@ -11,7 +11,7 @@
     "sdopx"
   ],
   "dependencies": {
-    "sdopx": "1.0.8"
+    "sdopx": "1.0.10"
   },
   "author": "wj008 <26029682@qq.com>",
   "repository": "git://github.com/wj008/opx.git",
